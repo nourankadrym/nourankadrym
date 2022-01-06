@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @nourankadrym
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nourankadrym777@gmail.com
+# about project
+# project name => landing page
+# programming languages => HTML, CSS, JS
 
-<!---
-nourankadrym/nourankadrym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# HTML
+1. creating page content
+
+# css
+1. styling page content
+
+# Js
+1. Navigation is built dynamically 
+2. highlighting the active section 
+3. smooth scrolling to the appropriate section when clicking an item from the navbar
+4. adding go up button
+
